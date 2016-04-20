@@ -1,0 +1,4 @@
+Apr 19, 2016 7:18:10 PM cloudwoodmqtt.CloudWoodMQTT main
+INFO: connected to: 5.5.44-MariaDB
+Apr 19, 2016 7:18:10 PM cloudwoodmqtt.CloudWoodMQTT runClient
+INFO: connected to broker: tcp://54.165.178.242:1883
